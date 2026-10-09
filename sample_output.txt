@@ -1,0 +1,199 @@
+=== Dynamic Binding Demo (Person reference -> child object) ===
+Ravi Kumar   -> Role: MANAGER
+Guest        -> Role: Customer
+
+===== RESTAURANT MANAGEMENT SYSTEM =====
+1. Register Customer
+2. View Menu
+3. Add Item to Current Order
+4. View Current Order Bill
+5. Finalize Order (Pay Bill)
+6. View Staff Salary Details
+7. View All Finalized Orders & Revenue
+8. Add New Menu Item (Admin)
+9. Sort Menu Alphabetically
+0. Exit
+Enter choice: Enter customer name: Enter phone number: Registered -> Name: Rushda Fathima, Phone: 9986012345, CustomerID: C2, LoyaltyPoints: 60
+
+===== RESTAURANT MANAGEMENT SYSTEM =====
+1. Register Customer
+2. View Menu
+3. Add Item to Current Order
+4. View Current Order Bill
+5. Finalize Order (Pay Bill)
+6. View Staff Salary Details
+7. View All Finalized Orders & Revenue
+8. Add New Menu Item (Admin)
+9. Sort Menu Alphabetically
+0. Exit
+Enter choice: 
+----------------------- MENU -----------------------
+[1] Paneer Butter Masala      Rs.220.00   MAIN_COURSE
+[2] Veg Biryani               Rs.180.00   MAIN_COURSE
+[3] Spring Rolls              Rs.120.00   STARTER
+[4] Chicken Tikka             Rs.250.00   STARTER
+[5] Gulab Jamun               Rs.60.00    DESSERT
+[6] Cold Coffee               Rs.90.00    BEVERAGE
+------------------------------------------------------
+
+===== RESTAURANT MANAGEMENT SYSTEM =====
+1. Register Customer
+2. View Menu
+3. Add Item to Current Order
+4. View Current Order Bill
+5. Finalize Order (Pay Bill)
+6. View Staff Salary Details
+7. View All Finalized Orders & Revenue
+8. Add New Menu Item (Admin)
+9. Sort Menu Alphabetically
+0. Exit
+Enter choice: Enter item name to search & add: Added: Paneer Butter Masala
+
+===== RESTAURANT MANAGEMENT SYSTEM =====
+1. Register Customer
+2. View Menu
+3. Add Item to Current Order
+4. View Current Order Bill
+5. Finalize Order (Pay Bill)
+6. View Staff Salary Details
+7. View All Finalized Orders & Revenue
+8. Add New Menu Item (Admin)
+9. Sort Menu Alphabetically
+0. Exit
+Enter choice: Enter item name to search & add: Added: Gulab Jamun
+
+===== RESTAURANT MANAGEMENT SYSTEM =====
+1. Register Customer
+2. View Menu
+3. Add Item to Current Order
+4. View Current Order Bill
+5. Finalize Order (Pay Bill)
+6. View Staff Salary Details
+7. View All Finalized Orders & Revenue
+8. Add New Menu Item (Admin)
+9. Sort Menu Alphabetically
+0. Exit
+Enter choice: Order #1 | Table: 9 | Customer: Rushda Fathima
+    [1] Paneer Butter Masala      Rs.220.00   MAIN_COURSE
+    [5] Gulab Jamun               Rs.60.00    DESSERT
+Subtotal (rounded): Rs.280
+
+===== RESTAURANT MANAGEMENT SYSTEM =====
+1. Register Customer
+2. View Menu
+3. Add Item to Current Order
+4. View Current Order Bill
+5. Finalize Order (Pay Bill)
+6. View Staff Salary Details
+7. View All Finalized Orders & Revenue
+8. Add New Menu Item (Admin)
+9. Sort Menu Alphabetically
+0. Exit
+Enter choice: 
+--- Staff Salary Details ---
+Ravi Kumar   MANAGER    Salary: Rs.20000.00
+Sunita Rao   CHEF       Salary: Rs.15000.00
+Arjun Das    WAITER     Salary: Rs.10000.00
+
+===== RESTAURANT MANAGEMENT SYSTEM =====
+1. Register Customer
+2. View Menu
+3. Add Item to Current Order
+4. View Current Order Bill
+5. Finalize Order (Pay Bill)
+6. View Staff Salary Details
+7. View All Finalized Orders & Revenue
+8. Add New Menu Item (Admin)
+9. Sort Menu Alphabetically
+0. Exit
+Enter choice: Final Payable Amount (incl. 5.0% tax): Rs.279.30
+
+===== RESTAURANT MANAGEMENT SYSTEM =====
+1. Register Customer
+2. View Menu
+3. Add Item to Current Order
+4. View Current Order Bill
+5. Finalize Order (Pay Bill)
+6. View Staff Salary Details
+7. View All Finalized Orders & Revenue
+8. Add New Menu Item (Admin)
+9. Sort Menu Alphabetically
+0. Exit
+Enter choice: Order #1 | Table: 9 | Customer: Rushda Fathima
+    [1] Paneer Butter Masala      Rs.220.00   MAIN_COURSE
+    [5] Gulab Jamun               Rs.60.00    DESSERT
+Subtotal (rounded): Rs.280
+-----------------------------------------------------
+TOTAL REVENUE: Rs.266.00
+
+===== RESTAURANT MANAGEMENT SYSTEM =====
+1. Register Customer
+2. View Menu
+3. Add Item to Current Order
+4. View Current Order Bill
+5. Finalize Order (Pay Bill)
+6. View Staff Salary Details
+7. View All Finalized Orders & Revenue
+8. Add New Menu Item (Admin)
+9. Sort Menu Alphabetically
+0. Exit
+Enter choice: Enter as Name,Price,Category(STARTER/MAIN_COURSE/DESSERT/BEVERAGE): Menu item added successfully.
+
+===== RESTAURANT MANAGEMENT SYSTEM =====
+1. Register Customer
+2. View Menu
+3. Add Item to Current Order
+4. View Current Order Bill
+5. Finalize Order (Pay Bill)
+6. View Staff Salary Details
+7. View All Finalized Orders & Revenue
+8. Add New Menu Item (Admin)
+9. Sort Menu Alphabetically
+0. Exit
+Enter choice: 
+----------------------- MENU -----------------------
+[1] Paneer Butter Masala      Rs.220.00   MAIN_COURSE
+[2] Veg Biryani               Rs.180.00   MAIN_COURSE
+[3] Spring Rolls              Rs.120.00   STARTER
+[4] Chicken Tikka             Rs.250.00   STARTER
+[5] Gulab Jamun               Rs.60.00    DESSERT
+[6] Cold Coffee               Rs.90.00    BEVERAGE
+[7] Masala Dosa               Rs.150.00   STARTER
+------------------------------------------------------
+
+===== RESTAURANT MANAGEMENT SYSTEM =====
+1. Register Customer
+2. View Menu
+3. Add Item to Current Order
+4. View Current Order Bill
+5. Finalize Order (Pay Bill)
+6. View Staff Salary Details
+7. View All Finalized Orders & Revenue
+8. Add New Menu Item (Admin)
+9. Sort Menu Alphabetically
+0. Exit
+Enter choice: Menu sorted alphabetically.
+
+----------------------- MENU -----------------------
+[4] Chicken Tikka             Rs.250.00   STARTER
+[6] Cold Coffee               Rs.90.00    BEVERAGE
+[5] Gulab Jamun               Rs.60.00    DESSERT
+[7] Masala Dosa               Rs.150.00   STARTER
+[1] Paneer Butter Masala      Rs.220.00   MAIN_COURSE
+[3] Spring Rolls              Rs.120.00   STARTER
+[2] Veg Biryani               Rs.180.00   MAIN_COURSE
+------------------------------------------------------
+
+===== RESTAURANT MANAGEMENT SYSTEM =====
+1. Register Customer
+2. View Menu
+3. Add Item to Current Order
+4. View Current Order Bill
+5. Finalize Order (Pay Bill)
+6. View Staff Salary Details
+7. View All Finalized Orders & Revenue
+8. Add New Menu Item (Admin)
+9. Sort Menu Alphabetically
+0. Exit
+Enter choice: Total Persons ever created (static counter): 5
+Thank you for using the Restaurant Management System. Goodbye!
